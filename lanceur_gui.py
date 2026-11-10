@@ -10,9 +10,6 @@ import threading
 import sys
 import tkinter as tk
 
-# ---------------------------------------------------------------------------
-# TON LIEN GITHUB
-# ---------------------------------------------------------------------------
 SCRIPT_LUA = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Aysoo9z/Monmenu/refs/heads/main/menu.lua"))()'
 
 CHEMIN_XENO = r"C:\Users\alvin\Desktop\Mazz\dist\Xeno-v1.3.65\Xeno.exe"
