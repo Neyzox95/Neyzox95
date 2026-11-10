@@ -10,7 +10,7 @@ import threading
 import sys
 import tkinter as tk
 
-SCRIPT_LUA = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Aysoo9z/Monmenu/refs/heads/main/menu.lua"))()'
+SCRIPT_LUA = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Neyzox95/Neyzox95/refs/heads/main/lanceur_gui.py"))()'
 
 CHEMIN_XENO = r"C:\Users\alvin\Desktop\Mazz\dist\Xeno-v1.3.65\Xeno.exe"
 
